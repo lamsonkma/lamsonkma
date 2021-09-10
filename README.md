@@ -4,9 +4,23 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
-<a href="">
-  <img align="center" src="![image](https://user-images.githubusercontent.com/67233512/132789744-d8b8fb52-17eb-4d18-98da-579e37671ebb.png)" />
-</a>
+name: Latest YouTube Videos
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCD6bHzIZCJJcJD6QHGUIyrw"
 
 
 
