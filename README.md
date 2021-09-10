@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamsonkma)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamsonkma&count_private=true)
+
 
 
 
