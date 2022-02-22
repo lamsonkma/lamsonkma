@@ -45,15 +45,15 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/Nguyenlamson2000" target="blank">
-    <img src="https://www.facebook.com/" alt="facebook" />
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40b.png" alt="facebook" />
+  </a>
+    <a href="lamsonttbn@gmail.com" target="blank">
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42c.png" alt="Emaiil" />
   </a>
 </div>
 
 <br>
 
-<h2 align="center">📑 Random Quotes 📑</h2>
-<br>
-<div align="right">
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
