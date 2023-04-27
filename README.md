@@ -41,19 +41,5 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  
-  <div>
-     <span>Facebook:  <a href="https://www.facebook.com/Nguyenlamson2000" target="blank">Nguyễn Lam Sơn</a></span>
-  </div>
-    <div>
-     <span>Gmail:  <a href="#" target="blank">lamsonttbn@gmail.com</a></span>
-  </div>
-  </a>
-</div>
-
 </div>
 
